@@ -1,0 +1,11 @@
+Da fare:
+1) Taratura e curva di correzione MQ135
+2) Taratura e curva di correzione MQ136
+3) Taratura e curva di correzione MQ138
+4) Taratura e curva di correzione MQ135
+5) Taratura e curva di correzione gp2y1010au PM10
+6) Taratura e curva di correzione gp2y1010au PM1
+7) Considerare invio di dati grezzi per postanalisi
+
+
+
